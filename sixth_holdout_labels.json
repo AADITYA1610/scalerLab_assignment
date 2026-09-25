@@ -1,0 +1,20 @@
+[
+  {"location":"body/p192","labels":[]},
+  {"location":"body/p183","labels":[]},
+  {"location":"body/p616","labels":[]},
+  {"location":"body/p326","labels":[]},
+  {"location":"body/t62/r3/c3/p0","labels":[]},
+  {"location":"body/p20","labels":[]},
+  {"location":"body/t36/r16/c1/p0","labels":[]},
+  {"location":"body/p603","labels":[]},
+  {"location":"body/p955","labels":[["ADDRESS","SEBI Bhavan, Plot No. C4 A, ‘G’ Block"]]},
+  {"location":"body/p920","labels":[["ADDRESS","Tara Chambers, Mumbai-Pune Road, Wakdewadi"]]},
+  {"location":"body/p936","labels":[["ADDRESS","Unit no. 1601, B- wing BKC, Mumbai Maharashtra India"]]},
+  {"location":"body/p793","labels":[["ADDRESS","10th Floor, Tower 2A & 2B"]]},
+  {"location":"body/t5/r24/c1/p0","labels":[["PERSON","Kushal Subbayya Hegde"],["PERSON","Pushpa Kushal Hegde"],["PERSON","Rajesh Kushal Hegde"],["PERSON","Rohit Kushal Hegde"],["PERSON","Rakhi Girija Shetty"],["COMPANY","Dhaulagiri Family Trust"],["COMPANY","Everest Family Trust"],["COMPANY","Makalu Family Trust"]]},
+  {"location":"body/t5/r26/c1/p0","labels":[["COMPANY","Dhaulagiri Family Trust"],["COMPANY","Everest Family Trust"],["COMPANY","Makalu Family Trust"],["COMPANY","Broad Family Trust"],["COMPANY","Annapurna Family Trust"],["COMPANY","Kanchenjunga Family Trust"]]},
+  {"location":"body/t2/r14/c6/p0","labels":[["COMPANY","MUFG Intime India Private Limited"]]},
+  {"location":"body/p753","labels":[["COMPANY","Nuvama Wealth Management Limited"]]},
+  {"location":"body/p912","labels":[["COMPANY","HDFC Bank Limited"]]},
+  {"location":"body/p464","labels":[["COMPANY","CareEdge Research"],["COMPANY","CareEdge Research"]]}
+]

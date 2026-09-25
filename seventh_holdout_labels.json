@@ -1,0 +1,22 @@
+[
+  {"location":"body/p157","labels":[]},
+  {"location":"body/p16","labels":[]},
+  {"location":"body/p117","labels":[]},
+  {"location":"body/t11/r12/c1/p0","labels":[]},
+  {"location":"body/t36/r6/c1/p0","labels":[]},
+  {"location":"body/p598","labels":[]},
+  {"location":"body/t57/r2/c1/p0","labels":[]},
+  {"location":"body/t26/r3/c0/p0","labels":[]},
+  {"location":"body/t9/r17/c0/p0","labels":[]},
+  {"location":"body/t5/r7/c1/p0","labels":[]},
+  {"location":"body/p838","labels":[["COMPANY","HDFC Bank Limited"]]},
+  {"location":"body/t4/r6/c1/p0","labels":[["COMPANY","CARE Analytics and Advisory Private Limited"],["COMPANY","CARE Analytics and Advisory Private Limited"]]},
+  {"location":"body/p443","labels":[["PERSON","Rohit Kushal Hegde"]]},
+  {"location":"body/t35/r4/c0/p0","labels":[["PERSON","Rohit Kushal Hegde"]]},
+  {"location":"body/t35/r5/c0/p0","labels":[["PERSON","Rakhi Girija Shetty"]]},
+  {"location":"body/p488","labels":[["PERSON","Sandesh Bhagwat"],["PERSON","Amod Joshi"],["PERSON","Sarthak Malvadkar"],["PERSON","Ganesh Prasad"]]},
+  {"location":"body/t53/r1/c3/p0","labels":[["PERSON","Kushal Hegde"],["PERSON","DM Shetty"],["PERSON","Gopal BO"]]},
+  {"location":"body/t36/r16/c0/p0","labels":[["PERSON","Maithili Rajesh Hegde"]]},
+  {"location":"body/t69/r1/c4/p0","labels":[]},
+  {"location":"body/t20/r1/c3/p0","labels":[]}
+]
