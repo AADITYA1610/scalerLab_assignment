@@ -19,12 +19,6 @@ python evaluate.py --gold final_frozen_labels.json --log "output\detections.csv"
 
 Place the supplied original at `input/Red Herring Prospectus.docx` first; skip virtual-environment setup if it is already active. Close the output file in Word before rerunning on Windows. The deliverable is `output/redacted_output.docx`. The CSV logs source values, types, offsets and replacements; **it contains original PII** and should be handled privately.
 
-## Browser demo and deployment
-
-Run `python app.py` locally and visit `http://127.0.0.1:5000` to upload a DOCX and download its redacted copy. The browser app uses the same pipeline as the CLI. It processes uploads in memory and does not create the private CSV. Review the downloaded DOCX before sharing it.
-
-For a public demo, push the project files to GitHub, then create a Python Web Service on Render from that repository. Set build command to `pip install -r requirements.txt` and start command to `gunicorn app:app`. Use the resulting service URL for the form's cloud link. Never commit the source prospectus or detection logs: `.gitignore` excludes `input/`, `output/`, CSV files and virtual environments. The redacted DOCX is supplied separately from the public repository.
-
 ## Approach
 
 - **Emails, Indian phones, US-style SSNs, IPv4 addresses and Indian CINs:** format patterns with checks appropriate to each type. Card-shaped numbers additionally need a valid Luhn checksum.
