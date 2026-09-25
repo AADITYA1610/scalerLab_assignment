@@ -1,8 +1,8 @@
-# PII Redaction Tool — KSH prospectus
+# PII Redaction Tool
 
 **Aaditya Raj Dixit** · SAP ID: **500122014** · Aaditya.122014@stu.upes.ac.in
 
-This tool reads the supplied Red Herring Prospectus DOCX and replaces detected PII with consistent synthetic values in a new DOCX. It uses regex, context rules and a list of entities learned from the document; **no NER model or API** is required. The assignment mentions a “ticket log,” but the provided input is a prospectus with tables and ordinary financial dates.
+This tool reads the supplied Red Herring Prospectus DOCX and replaces detected PII with consistent synthetic values in a new DOCX. It uses regex, context rules and a list of entities learned from the document; **no NER model or API** is required. The provided input is a prospectus with tables and ordinary financial dates.
 
 ## Setup and run
 
